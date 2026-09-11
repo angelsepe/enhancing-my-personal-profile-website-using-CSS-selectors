@@ -1,0 +1,55 @@
+body {
+    color: black;
+    background-color: #f2f2f2;
+}
+
+h1 {
+    color: white;
+    background-color: #222222;
+    text-align: center;
+}
+
+h2 {
+    color: #b30000;
+}
+
+/* CLASS SELECTORS */
+
+.nav-link {
+    color: #b30000;
+    font-weight: bold;
+}
+
+.profile-info {
+    background-color: white;
+}
+
+.section-title {
+    color: #b30000;
+    font-weight: bold;
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+/* ID SELECTORS */
+
+#main-header {
+    background-color: #222222;
+    text-align: center;
+}
+
+#contact-section {
+    background-color: #2e2a2a;
+}
+
+/* MULTIPLE CLASSES */
+
+.btn {
+    font-weight: bold;
+}
+
+.primary {
+    color: white;
+    background-color: #b30000;
